@@ -1,0 +1,13 @@
+html>
+ <head>
+ <title>ชิติพัทธ์ เซ็กโม้
+ </title>
+ </head>
+ <body bgcolor="FA8072">
+ <center> 
+นาย ชิติพัทธ์ เซ็กโม้<br>
+เลขที่ 16 <br>
+ ห้อง .5/1 <br><br> 
+<img src="phimluk.jpg"width="300"height="450"></center> 
+</body> 
+</thml>
